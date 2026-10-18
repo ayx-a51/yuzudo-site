@@ -48,8 +48,8 @@
   /* brand */
   --white: #FFFFFF;
   --slate: #434856;
-  --green: #1B7F45;          /* garden green: buttons and links on light grounds */
-  --green-light: #53C683;    /* same hue (145°), lighter: links and buttons on soil */
+  --teal: #0E7470;           /* deep teal, the app's UI colour and icon ground: buttons and links on light grounds */
+  --teal-light: #45B8AE;     /* the app's teal for dark grounds: links and buttons on soil (7.4:1) */
   --gold: #F8A600;           /* yuzu gold: general accent; fills with slate text or decoration, never text on white */
   --plus: #A3354A;           /* cranberry: yuzudo+ only and always; fills with white text */
   --plus-mark: #A3354A;      /* yuzudo+ text and thin marks (lighter on dark grounds) */
@@ -60,8 +60,8 @@
   --bg: var(--white);
   --text: var(--slate);
   --muted: #5B6070;
-  --link: var(--green);
-  --btn: var(--green);
+  --link: var(--teal);
+  --btn: var(--teal);
   --on-btn: var(--white);
   --surface: var(--paper);
   --line: #EFE2CA;
@@ -92,8 +92,8 @@
     --bg: var(--soil);
     --text: var(--paper);
     --muted: #CFC4B4;
-    --link: var(--green-light);
-    --btn: var(--green-light);
+    --link: var(--teal-light);
+    --btn: var(--teal-light);
     --on-btn: var(--soil);
     --surface: #2A221E;
     --line: #3D332D;

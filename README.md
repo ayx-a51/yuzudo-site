@@ -26,6 +26,7 @@ Each page is a folder with an `index.html`, so URLs stay clean. Links are root-r
 
 - The name is always lowercase: yuzudo, yuzudo+.
 - The wordmark and the standalone app icon never appear on the same page; the icon is used only for favicons and the web manifest.
+- Cranberry #A3354A (#E05A6E for text and thin marks on dark grounds) means yuzudo+ and nothing else; yuzu gold #F8A600 is a general accent, never text on white.
 - The only published contact address is hi@yuzudo.app.
 
 ## Licences

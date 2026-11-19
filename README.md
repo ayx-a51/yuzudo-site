@@ -1,6 +1,6 @@
 # yuzudo.app
 
-The website of **yuzudo**, the fruity focus timer for Android. Plain HTML and CSS, served by GitHub Pages at https://yuzudo.app. No build step, no JavaScript, no cookies, no analytics and no third-party requests.
+The website of **yuzudo**, the fruity focus timer for iPhone and Android. Plain HTML and CSS, served by GitHub Pages at https://yuzudo.app. No build step, no JavaScript, no cookies, no analytics and no third-party requests.
 
 ## Structure
 
